@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mws:home|Door43 (mws)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mws|d43-mws repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mws/archive/master.zip|d43-mws.zip]]
+
+**Recent Changes**
+{{changes>ns = mws}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mws|Ethnologue data]]
+
